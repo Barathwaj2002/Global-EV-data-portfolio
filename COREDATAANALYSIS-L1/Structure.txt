@@ -1,0 +1,13 @@
+Retail-EDA/
+├─ data/
+│  ├─ raw/                # original CSV/XLSX from Kaggle
+│  └─ processed/          # cleaned CSV/Parquet
+├─ notebooks/
+│  └─ 01_EDA.ipynb
+├─ scripts/
+│  └─ eda_utils.py
+├─ outputs/
+│  ├─ figures/
+│  └─ reports/
+├─ README.md
+└─ requirements.txt
