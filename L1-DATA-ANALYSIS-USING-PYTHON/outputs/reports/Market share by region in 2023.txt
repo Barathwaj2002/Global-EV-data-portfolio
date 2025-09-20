@@ -1,0 +1,13 @@
+Regional market share in 2023 (%): 
+
+region
+World                46.903416
+China                27.438593
+Europe               11.323485
+USA                   4.544222
+EU27                  2.800485
+Rest of the world     2.241259
+Germany               0.792032
+France                0.548288
+United Kingdom        0.516102
+India                 0.276882
