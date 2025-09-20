@@ -22,6 +22,10 @@ Deliverables:
 
 Jupyter Notebook (01_EDA.ipynb) with data cleaning, analysis, and visualization.
 
-Cleaned dataset (data/processed/ev_sales_clean.csv).
+Raw dataset (data/raw/IEA Global EV Data 2024.csv)
+
+Cleaned dataset (data/processed/ev_sales_clean.csv)
 
 Figures (outputs/figures/)
+
+Reports (outputs/reports/
