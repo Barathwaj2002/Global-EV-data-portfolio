@@ -1,4 +1,4 @@
-Retail-EDA/
+L1-DATA-ANALYSIS-USING-PYTHON/
 ├─ data/
 │  ├─ raw/                # original CSV/XLSX from Kaggle
 │  └─ processed/          # cleaned CSV/Parquet
